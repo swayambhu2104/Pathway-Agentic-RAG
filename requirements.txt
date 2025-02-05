@@ -1,7 +1,0 @@
-openai
-pathway
-litellm==1.40.0
---prefer-binary pathway
-google-generativeai
-numpy
-httpx==0.27.2
